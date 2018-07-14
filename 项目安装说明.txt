@@ -1,0 +1,21 @@
+导入数据库乱码解决方法
+http://www.52itstyle.com/thread-133-1-1.html 你可以选择三种方法
+邮箱发送失败原因说明： 
+http://www.52itstyle.com/thread-9-1-1.html
+
+报价管理系统安装说明以及注意事项
+
+http://www.52itstyle.com/thread-151-1-1.html
+
+(出处: 科帮网-享受科技、热爱生活)
+
+
+Java Web项目开发案例报价管理系统(亲测)
+http://www.52itstyle.com/thread-150-1-1.html
+(出处: 科帮网-享受科技、热爱生活)
+
+
+达内当当网全套源码测试通过带邮箱验证功能
+
+http://www.52itstyle.com/thread-162-1-1.html
+(出处: 科帮网-享受科技、热爱生活)
